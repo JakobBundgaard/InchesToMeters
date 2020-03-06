@@ -9,6 +9,6 @@ public class FahrToCelc {
         double celc = (fahr - 32) / 1.8;
         System.out.println("Temperaturen i Fahrenheit: " + fahr + " F");
         System.out.println("Temperaturen omregnet til Celcius: " + celc + " C");
-
+        System.out.println("hahaha");
     }
 }
